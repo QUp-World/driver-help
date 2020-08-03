@@ -12,7 +12,7 @@
     - [Back-to-back jobs](driver/9-back-to-back-jobs.md)
     - [How to contact customer?](driver/10-contact-customer.md)
     - [Customer did not show-up](driver/11-no-show.md)
-    - [How to check my earnings?](driver/12-check-my-earnings.md)
+    - [How to check my earnings?](driver/12-check-earnings.md)
   - Earnings & Wallet
     - [Know your cash and credit wallet](driver/13-cash-credit-wallet.md)
     - [Does promo affect my earnings?](driver/14-does-promo-affect-my-earnings.md)
