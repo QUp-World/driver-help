@@ -15,5 +15,5 @@ This is a guide to get our partners up to speed. A good journey requires a good 
 
 <div class="buttons">
   <a href="https://gojo.asia"><span>Gojo.asia</span></a>
-  <a href="https://qup-world.github.io/driver-help/#/README"><span>Get Started</span></a>
+  <a href="#/driver/1-become-gojo-partner.md"><span>Get Started</span></a>
 </div>

@@ -1,12 +1,10 @@
 - Driver Help Center
   - My Account 
-    - [Benefits for GOJO Driver Partner](driver/1-benefits-for-driver-partner.md)
+    - [Become GOJO Driver Partner](driver/1-become-gojo-partner.md)
     - [Become a Driver Partner](driver/2-become-a-driver-partner.md)
-    - [Registration Requirement](driver/3-registration-requirement.md)
     - [Login to my Driver app](driver/4-login-driver-app.md)
-    - [Why can't I Login](driver/5-why-cant-i-login.md)
     - [What is the Verification Code](driver/6-verification-code.md)
-    - [Start your first job](driver/7-start-firstjob.md)
+    - [Types of jobs](driver/7-types-of-jobs.md)
   - Driver App Tips
     - [Tips to get more jobs](driver/8-tips-more-job.md)
     - [Back-to-back jobs](driver/9-back-to-back-jobs.md)

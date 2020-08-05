@@ -1,4 +1,4 @@
-<h2>Join {{fleetName}} Driver Partner Team To Get Exclusive Benefits</h2>
+## Inclusive benefits
 
 <h3>1. Free RM250 Credit Money</h3>
 This welcome gift will be granted for your first two months of driving.
@@ -11,11 +11,19 @@ As a {{feelName}} driver partner, you can receive not only normal ride requests 
 
 <h3>4. Be Your Real Own Boss</h3>
 Get the most of your available time with advanced features and functions to actively grab jobs. Own your time own your jobs!
+ 
 
-> Click [here]({{driverSignUp}}) to register now , OR Download {{fleetName}} Driver app to sign-up: [iOS](https://apps.apple.com/us/app/gojo-driver/id1455304266)/[Android](https://play.google.com/store/apps/details?id=com.gojomalaysia.driver&hl=en).
+## Register with {{fleetName}}
+ 
+- Click [here]({{driverSignUp}}) to register via our website.
 
- <h4><i>Related articles:</i></h4>
+- Or, download our {{fleetName}} Driver app to registrer on your smartphone:  [iOS](https://apps.apple.com/us/app/gojo-driver/id1455304266)/[Android](https://play.google.com/store/apps/details?id=com.gojomalaysia.driver&hl=en).
 
- > <a href="#/driver/2-become-a-driver-partner">How to become {{fleetName}} driver partner?</a>
+Once completing your registration, please keep posted for the activation email to start our partnership!
+
+Should you have any questions, please contact us at <a href="mailto:{{fleetSupportEmail}}">{{fleetSupportEmail}}</a>.
+
+
+ 
 
 
