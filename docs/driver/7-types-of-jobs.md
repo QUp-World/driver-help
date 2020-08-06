@@ -6,23 +6,23 @@ Remember to turn on sound notification and be ready for the ping calls.
 
 ![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-book-now.PNG)
 
-## 2. Scheduled Bookings
+## 2. Scheduled bookings
 
 > **Choose scheduled bookings on your own time!**
 
 Navigate to **Jobs/Nearby** and grab yourself those available reservation bookings and delivery requests.
 
-### Reservation Requests
+### Reservation requests
 
 ![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-book-later.PNG)
 
-### Delivery Requests
+### Delivery requests
 
 ![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-delivery-1.PNG)
 
 ![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-delivery-2.PNG)
 
-## 3. Intercity Requests
+## 3. Intercity requests
 
 Intercity requests, different passengers are combined and matched on a scheduled route to maximize your long travel. 
 
