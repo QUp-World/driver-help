@@ -17,7 +17,7 @@ Choose your desired bookings with our Marketplace feature.
 
 <h3>4. Stay Tuned </h3>
 
-> **We have one more suprise coming soon. Take a guess 😉.**
+> **We have one more thing coming soon! Take a guess 😉.**
 <div align=center>
 <p style="font-size:88px">🎁</p>
 </div>
