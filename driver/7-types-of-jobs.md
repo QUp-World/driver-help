@@ -15,9 +15,3 @@ Navigate to **Jobs/Nearby** and grab yourself those available reservation bookin
 ### Reservation requests
 
 ![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-book-later.PNG)
-
-### Delivery requests
-
-![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-delivery-1.PNG)
-
-![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-delivery-2.PNG)
