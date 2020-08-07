@@ -21,17 +21,3 @@ Navigate to **Jobs/Nearby** and grab yourself those available reservation bookin
 ![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-delivery-1.PNG)
 
 ![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-delivery-2.PNG)
-
-## 3. Intercity requests
-
-Intercity requests, different passengers are combined and matched on a scheduled route to maximize your long travel. 
-
-To gain intercity jobs, you can either <i><u>accept the scheduled trip</i><u/> or <i><u>offer your service in advance for the route you would like to take</i><u/>. 
-
-### Accept a scheduled trip
-
-![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-intercity-1.png)
-
-### Offer your service for a intercity route.
-
-![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-intercity-2.png)

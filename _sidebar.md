@@ -12,8 +12,6 @@
   - Earnings & Wallet
     - [Know your cash and credit wallet](driver/13-cash-credit-wallet.md)
     - [Does promo affect my earnings?](driver/14-does-promo-affect-my-earnings.md)
-  - Incentive Program
-    - [How does the referral program work?](driver/15-referral-program-guide.md)
   - Safety Guide
     - [Safety tips on board](driver/16-safety-tips-on-board.md)
     - [I got into an accident](driver/17-accident.md)
