@@ -6,10 +6,7 @@ This welcome gift will be granted for your first two months of driving.
 <h3>2. Plentiful Jobs At Low Commission</h3>
 With experience working with over 2 million passengers, we commit to bring you a clever app with countless bookings, and moreover, a commission lower than your expectation.
 
-<h3>3. Diverse Job Opportunity</h3>
-As a {{feelName}} driver partner, you can receive not only normal ride requests but also other advanced services such as intercity long-distance trips and delivery jobs.
-
-<h3>4. Be Your Real Own Boss</h3>
+<h3>3. Be Your Real Own Boss</h3>
 Get the most of your available time with advanced features and functions to actively grab jobs. Own your time own your jobs!
  
 

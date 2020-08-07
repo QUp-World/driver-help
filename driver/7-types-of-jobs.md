@@ -10,7 +10,7 @@ Remember to turn on sound notification and be ready for the ping calls.
 
 > **Choose scheduled bookings on your own time!**
 
-Navigate to **Jobs/Nearby** and grab yourself those available reservation bookings and delivery requests.
+Navigate to **Jobs/Nearby** and grab yourself those available reservation bookings.
 
 ### Reservation requests
 
