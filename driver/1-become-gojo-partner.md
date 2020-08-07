@@ -1,7 +1,8 @@
 ## Driver benefits
 
 <h3>1. Zero Commission for the first two months</h3>
-Yes, 100% of the fare is yours. All yours.
+
+> **Yes, 100% of the fare is yours. All yours.**
 
 <h3>2. RM250 signup bonus in your Driver Credit Wallet</h3>
 <i>Valid till 31st December, 2020.</i>
@@ -10,11 +11,13 @@ Yes, 100% of the fare is yours. All yours.
 
 <h3>3. Marketplace</h3>
 
-**Choose your desired bookings** with our Marketplace feature. Plan your trip, maximise your income!
+Choose your desired bookings with our Marketplace feature. 
+
+> **Plan your trip, maximise your income!**
 
 <h3>4. Stay Tuned </h3>
 
-We have one more thing coming soon. Take a guess 😉.
+> **We have one more suprise coming soon. Take a guess 😉.**
 <div align=center>
 <p style="font-size:88px">🎁</p>
 </div>
