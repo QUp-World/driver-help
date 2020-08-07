@@ -1,12 +1,18 @@
 ## Download app and loggin 
 
-Congratulations on the activation email! Your account is now ready to log-in and takes jobs. Download app now and enjoy earning with us.
+Congratulations on your activation! Welcome to the {{fleetName}} family! You can now login and start accepting jobs!
+
+Download app now and enjoy earning with us.
 
 - {{fleetName}} Driver app:[iOS]({{appleStoreLink}})/[Android]({{androidStoreLink}}).
+
+<div align=center>
 
 ![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-qr-code.jpg ':size=200')
 
 ![N|Sodic](https://static-qup.s3-us-west-1.amazonaws.com/gif/driver-log-in.PNG)
+
+</div>
 
 Tap image to enlarge, (zoom on your device if too small)
 

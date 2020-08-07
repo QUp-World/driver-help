@@ -8,7 +8,8 @@ All pending in-advance requests are stored here and available for you to pick. W
 
 <h3>2. Navigate to high-demand area by checking Heat Map</h3>
 
-To visualize the service demand in your area, click on the dot icon ![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/heatmap3.png) on your map now and take advantage to navigate to the hot-market area.
+To visualize the service demand in your area, click on the dot icon ![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/heatmap3.png) on your map now and take advantage to locate the hot-market area.
 
+![N|Solid](https://static-qup.s3-us-west-1.amazonaws.com/gojo/driver-heat-map.png)
 
 > To go back to the normal map view, please click on the dot icon again ![N|Solid](https://static-qup.s3.us-west-1.amazonaws.com/gif/heatmap2.png).
