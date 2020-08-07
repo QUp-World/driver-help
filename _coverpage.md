@@ -1,17 +1,15 @@
+
+<a href="https://gojo.asia">
+
 ![](assets/images/logo.png ":no-zoom")
+
+</a>
 
 > A good journey begins with Gojo.
 
 </br>
 
-This is a guide to get our partners up to speed. A good journey requires a good driver. Here is our good guide. 😉
-
-- 🚀 Gojo Benefits & Account Setup
-- ⚡️️ Driver tips on the job
-- 💰 More about your earnings and Gojo Wallet.
-- 💎 Learn about our good incentives.
-- 🦺 Practice good safety.
-- ⏱ App has issues? Learn to troubleshoot the app!
+Gojo guide to get our driver partners up and running.
 
 <div class="buttons">
   <a href="https://gojo.asia"><span>Gojo.asia</span></a>
