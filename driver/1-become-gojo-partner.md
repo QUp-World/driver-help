@@ -1,22 +1,31 @@
-## Inclusive benefits
+## Driver benefits
 
-<h3>1. Free RM250 Credit Money</h3>
-This welcome gift will be granted for your first two months of driving.
+<h3>1. Zero Commission for the first two months</h3>
+Yes, 100% of the fare is yours. All yours.
 
-<h3>2. Plentiful Jobs At Low Commission</h3>
-With experience working with over 2 million passengers, we commit to bring you a clever app with countless bookings, and moreover, a commission lower than your expectation.
+<h3>2. RM250 signup bonus in your Driver Credit Wallet</h3>
+<i>Valid till 31st December, 2020.</i>
 
-<h3>3. Be Your Real Own Boss</h3>
-Get the most of your available time with advanced features and functions to actively grab jobs. Own your time own your jobs!
- 
+> **Please remember to turn on your GOJO Driver app always to receive bookings.**
+
+<h3>3. Marketplace</h3>
+
+**Choose your desired bookings** with our Marketplace feature. Plan your trip, maximise your income!
+
+<h3>4. Stay Tuned </h3>
+
+We have one more thing coming soon. Take a guess 😉.
+<div align=center>
+<p style="font-size:88px">🎁</p>
+</div>
 
 ## Register with {{fleetName}}
  
 - Click [here]({{driverSignUp}}) to register via our website.
 
-- Or, download our {{fleetName}} Driver app to registrer on your smartphone:  [iOS](https://apps.apple.com/us/app/gojo-driver/id1455304266)/[Android](https://play.google.com/store/apps/details?id=com.gojomalaysia.driver&hl=en).
+- Or, download our {{fleetName}} Driver app to register on your smartphone:  [iOS](https://apps.apple.com/us/app/gojo-driver/id1455304266) | [Android](https://play.google.com/store/apps/details?id=com.gojomalaysia.driver&hl=en).
 
-Once completing your registration, please keep posted for the activation email to start our partnership!
+Once you have completed the registration, please check your inbox for the activation email to start our partnership!
 
 Should you have any questions, please contact us at <a href="mailto:{{fleetSupportEmail}}">{{fleetSupportEmail}}</a>.
 
