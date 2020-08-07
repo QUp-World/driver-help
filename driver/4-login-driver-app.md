@@ -25,7 +25,7 @@ In this situation, there are three possible cases:
 
 <h3>1. Your phone number has not been registered</h3>
 
-Please refer to our article <a href="#/driver/1-become-a-driver-partner"><i><b>Become a {{fleetName}} Driver Partner</i></b></a> to register your account. 
+Please refer to our article <a href="#/driver/1-become-gojo-partner.md"><i><b>Become a {{fleetName}} Driver Partner</i></b></a> to register your account. 
 
 <h3>2. Your Account is In-Review</h3>
 
