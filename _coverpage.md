@@ -1,6 +1,6 @@
 
 <div class="video-container">
-  <iframe width="941" height="529" src="https://www.youtube.com/embed/KHaeDvT7Ppg?autoplay=1&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="941" height="529" src="https://www.youtube.com/embed/KHaeDvT7Ppg?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 </br>
