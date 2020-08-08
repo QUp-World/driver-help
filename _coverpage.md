@@ -1,9 +1,5 @@
 
-<a href="https://gojo.asia">
-
-![](assets/images/logo.png ":no-zoom")
-
-</a>
+<iframe width="941" height="529" src="https://www.youtube.com/embed/KHaeDvT7Ppg?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </br>
 
