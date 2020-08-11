@@ -1,6 +1,6 @@
 - Driver Help Center
   - My Account 
-    - [Become GOJO Driver Partner](driver/1-become-gojo-partner.md)
+    - [Be a GOJO Driver Partner](driver/1-become-gojo-partner.md)
     - [Login to my Driver app](driver/4-login-driver-app.md)
     - [Types of jobs](driver/7-types-of-jobs.md)
   - Driver App Tips

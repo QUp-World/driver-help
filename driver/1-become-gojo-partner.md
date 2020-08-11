@@ -28,7 +28,11 @@ Choose your desired bookings with our Marketplace feature.
 
 - Or, download our {{fleetName}} Driver app to register on your smartphone:  [iOS](https://apps.apple.com/us/app/gojo-driver/id1455304266) | [Android](https://play.google.com/store/apps/details?id=com.gojomalaysia.driver&hl=en).
 
-Once you have completed the registration, please check your inbox for the activation email to start our partnership!
+![](https://static-qup.s3.us-west-1.amazonaws.com/gif/driver-signup.png)
+
+Once you have completed the registration, please check your mailbox for the activation email to start our partnership!
+
+> **Note**: Please check promotion/spam mail folder if you haven't receive an email.
 
 Should you have any questions, please contact us at <a href="mailto:{{fleetSupportEmail}}">{{fleetSupportEmail}}</a>.
 
