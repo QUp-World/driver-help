@@ -34,7 +34,7 @@ Once you have completed the registration, please check your mailbox for the acti
 
 > **Note**: Please check promotion/spam mail folder if you haven't receive an email.
 
-Should you have any questions, please contact us at <a href="mailto:{{fleetSupportEmail}}">{{fleetSupportEmail}}</a>.
+Should you have any questions, please contact us at <a href="mailto:driver@gojo.asia">driver@gojo.asia</a>.
 
 
  
