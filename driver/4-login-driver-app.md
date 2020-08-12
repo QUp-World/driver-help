@@ -1,4 +1,4 @@
-## Download app and loggin 
+## Download app and login 
 
 Congratulations on your activation! Welcome to the {{fleetName}} family! You can now login and start accepting jobs!
 
