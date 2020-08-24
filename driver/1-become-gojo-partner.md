@@ -15,9 +15,9 @@ Choose your desired bookings with our Marketplace feature.
 
 > **Plan your trip, maximise your income!**
 
-<h3>4. Stay Tuned </h3>
+<h3>4. Founder's Fund </h3>
 
-> **We have one more thing coming soon! Take a guess 😉.**
+> **12-month profit-sharing program for our partners. [Learn more here!](https://www.gojo.asia/founder's-fund/)**
 <div align=center>
 <p style="font-size:88px">🎁</p>
 </div>
