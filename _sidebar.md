@@ -3,6 +3,11 @@
     - [Be a GOJO Driver Partner](driver/1-become-gojo-partner.md)
     - [Login to my Driver app](driver/4-login-driver-app.md)
     - [Types of jobs](driver/7-types-of-jobs.md)
+  - Founder's Fund Program
+    - [What is Founder's Fund?](driver/what-is-ff.md)
+    - [How to share referral code?](driver/share-referral.md)
+    - [How to edit my code?](driver/edit-my-code.md)
+    - [How to track referred customers?](driver/track-referral.md)
   - Driver App Tips
     - [Tips to get more jobs](driver/8-tips-more-job.md)
     - [Back-to-back jobs](driver/9-back-to-back-jobs.md)
