@@ -23,4 +23,5 @@
   - Troubleshoot App
     - [Why do I receive no bookings?](driver/18-no-bookings.md)
     - [My location is inaccurate](driver/19-location-inaccurate.md)
+    - [Background issue on Android phones](driver/background-issue-android.md)
     - [What to do when app crashes?](driver/20-app-crashes.md)
